@@ -23,9 +23,9 @@ Before you begin, make sure you have the following installed on your system:
 
 #### 3)Set up Cloudinary:
 
- °Go to Cloudinary and sign up for a free account.
- °Once logged in, obtain your Cloudinary CLOUD_NAME, CLOUD_API_KEY, and CLOUD_API_SECRET.
- °Add these values to the .env file:
+   °Go to Cloudinary and sign up for a free account.
+   °Once logged in, obtain your Cloudinary CLOUD_NAME, CLOUD_API_KEY, and CLOUD_API_SECRET.
+   °Add these values to the .env file:
 
     CLOUD_NAME=your_cloud_name
     CLOUD_API_KEY=your_api_key
@@ -33,7 +33,7 @@ Before you begin, make sure you have the following installed on your system:
 
 #### 4)Set the secret for your Cloudinary storage:
 
- °Add a SECRET key to your .env file and set it to a secure value:
+   °Add a SECRET key to your .env file and set it to a secure value:
 
     SECRET=your_cloudinary_secret
 
