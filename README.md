@@ -17,6 +17,7 @@ Before you begin, make sure you have the following installed on your system:
   #### 2) Set up the database:
 
    ° Create a .env file in the root directory of the project.
+   
    ° Add the following line to the .env file:
 
     ATLASDB_URL=mongodb://127.0.0.1:27017/wanderlust
